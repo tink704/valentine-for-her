@@ -46,7 +46,7 @@ function showWarning() {
   content.innerHTML = `
     <h1 class="warning-text">Stop messing with me! 😾</h1>
     <img
-      src="/mnt/data/062e6f12-1649-4855-9a2c-1239d0ed2b57.png"
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdtNDZscThtdWV3dmE4eTIzcmZmM3QxZDNkcTh1bTR3OWo2M3k5YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y93x7gLXTO5dnSWCEI/giphy.gif"
       class="warning-img"
       alt="Cute angry cat"
     />
